@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": "21.2.0"
-  },
   "name": "major-project",
   "version": "1.0.0",
   "description": "",
